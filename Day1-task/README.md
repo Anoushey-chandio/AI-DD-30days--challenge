@@ -34,6 +34,7 @@ Solo developers ya beginners bhi AI k sath enterprise-level software develop kr 
 AI automatically testing or validation mein help krta hai, jis se bugs or mistakes km hoti hai.
 
 ### Self-Test (MCQs)
+
 ### 1 What is the main purpose of the AI-Native Era?
 a) Replace developers
 b) Empower developers through AI tools
@@ -56,17 +57,17 @@ b) AI-Driven Development
 c) Automated IDE Deployment
 d) Adaptive Input Debugger
 
-### Correct Answer: b) AI-Driven Development
+ Correct Answer: b) AI-Driven Development
 
-4 What is the focus of Evaluation-Driven Development (EvDD)?
+### 4 What is the focus of Evaluation-Driven Development (EvDD)?
 a) Manual coding
 b) Evaluating and improving AI outputs
 c) UI design
 d) Testing only
 
-### Correct Answer: b) Evaluating and improving AI outputs
+ Correct Answer: b) Evaluating and improving AI outputs
 
-5 What should developers focus on in the AI era?
+### 5 What should developers focus on in the AI era?
 a) Syntax only
 b) Building reasoning + evaluation skills
 c) Avoiding AI tools
