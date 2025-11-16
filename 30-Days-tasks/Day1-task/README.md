@@ -10,9 +10,9 @@ The AI turning point in 2025 changed software development completely. AI tools b
 ### Explanation in My Own Words
 AI-Driven Development (AI-DD) ka matlb yeh hai k developers ab sirf manual coding pr depend nahi krty hai. Is approach mei human developers AI ko guide or supervise, krty hai, jab k AI repetitive tasks, coding, testing, optimization, aur autonomous workflows handle krta hai. Humans ka focus ab decision-making, design thinking, or problem solving pr hota hai.
 
-### AI-DD mein AI systems reasoning, planning, or action perform krty hai, jis se software development zyada fast, accurate or efficient ho jati hai.
+ AI-DD mein AI systems reasoning, planning, or action perform krty hai, jis se software development zyada fast, accurate or efficient ho jati hai.
 
-### AI-DD ek revolution hai jo sirf coding ka tariqa nhi, balky software development overall approach ko badal rha hai. Humans or AI ki partnership developers ko zyada creative, or efficient bnati hai. Future mei yeh collaboration software industry k hr project ka essential hissa bn jayegi.
+ AI-DD ek revolution hai jo sirf coding ka tariqa nhi, balky software development overall approach ko badal rha hai. Humans or AI ki partnership developers ko zyada creative, or efficient bnati hai. Future mei yeh collaboration software industry k hr project ka essential hissa bn jayegi.
 
 ### Example
 Ek developer apni web application ki 'UI' design ki requirements AI ko deta hai. AI initial code generate krta hai, test run krta hai, or optimization suggest krta hai.Developer phr AI k output ko review krta hai, aur final solution deploy krta hai.Is tarah ek solo developer bhi complex software projects efficiently complete kr skta hai.
