@@ -15,7 +15,7 @@ These nine pillars automate repetitive tasks, ensure quality, integrate AI effec
 In architecture-first thinking, the developer’s role shifts from writing raw code to designing and orchestrating layers and systems. Each layer (model, IDE, agent) has a distinct responsibility, and the developer chooses tools and workflows strategically to ensure AI works efficiently and changes can be accommodated easily.
 
 ### Q4 Why must developers think in layers and systems instead of raw code?
-Thinking in layers and systems allows developers to abstract complexity and separate concerns. In AI-DD, each layer has a distinct responsibility—Frontier Models handle reasoning, IDEs handle interaction, and Development Agents handle execution. By focusing on layers, developers can swap tools, scale workflows, and integrate AI effectively without rewriting code, ensuring maintainability, flexibility, and long-term productivity.
+Thinking in layers and systems allows developers to abstract complexity and separate concerns. In AI-DD, each layer has a distinct responsibility Frontier Models handle reasoning, IDEs handle interaction, and Development Agents handle execution. By focusing on layers, developers can swap tools, scale workflows, and integrate AI effectively without rewriting code, ensuring maintainability, flexibility, and long-term productivity.
 
 ### Q5  why does vibe coding usually create problem after one week ?
 Vibe Coding is an intuition-driven development approach where a developer writes code immediately without a formal specification, tests it as they go, and adjusts based on feedback. Requirements and structure evolve naturally with the code. It works well for learning, prototyping, and solo projects, but in production or team projects it can cause ambiguity, missing tests, and fragile architecture.
@@ -58,19 +58,19 @@ A specification is a clear, written document that defines what a feature will do
 
 ### MCQs 
 ### 1 What is the main purpose of Spec-Driven Development?
-*Answer B is right*:Clear requirements before coding begins
+*Answer B is right* : Clear requirements before coding begins
 
 ### 2 What is the biggest mindset shift in AI-Driven Development? 
-*Answer B is right*: Thinking in systems and clear instructions
+*Answer B is right* : Thinking in systems and clear instructions
 
 ### 3 Biggest failure of Vibe Coding? 
-*Answer B is right*: Architecture becomes hard to extend
+*Answer B is right* : Architecture becomes hard to extend
 
 ### 4 Main advantage of using AI CLI agents (like Gemini CLI)?
-*Answer B is right*: Handle repetitive tasks so dev focuses on design & problem-solving
+*Answer B is right* : Handle repetitive tasks so dev focuses on design & problem-solving
 
 ### 5 What defines an M-Shaped Developer? 
-*Answer C is right*: Deep skills in multiple related domains
+*Answer C is right* : Deep skills in multiple related domains
 
 
 
