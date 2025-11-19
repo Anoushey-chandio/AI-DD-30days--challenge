@@ -21,7 +21,9 @@ Thinking in layers and systems allows developers to abstract complexity and sepa
 Vibe Coding is an intuition-driven development approach where a developer writes code immediately without a formal specification, tests it as they go, and adjusts based on feedback. Requirements and structure evolve naturally with the code. It works well for learning, prototyping, and solo projects, but in production or team projects it can cause ambiguity, missing tests, and fragile architecture.
 Example:
 A developer starts coding without a specification and quickly builds a PDF summarizer. It works initially and is shipped in a few hours.
+
 Week 2: A teammate requests Word support. The code wasn’t designed for multiple formats, and edge cases like large or corrupted files weren’t tested. No spec exists, so the team has different assumptions.
+
 Result: Major refactoring is needed, week 1’s fast progress now costs 3× the time, and team confidence drops.
 
 ### Q6 how would specification driven development prevent these problems?
@@ -39,15 +41,18 @@ A specification is a clear, written document that defines what a feature will do
 8.	
 ## SDD Benefits
 •	Clear requirements:Reduces misunderstandings and rework.
-•	Predictable delivery:Improves estimation and planning.
-•	Fewer bugs:Tests catch edge cases upfront.
-•	Maintainable codebase:Simplifies future changes.
-•	Team alignment:Everyone works with the same mental model.
-•	Safe refactoring:Tests ensure nothing breaks.
-•	AI-friendly development: Clear specs enable AI to generate high-quality code.
 
-### PART (B)
-![Day2-task screenshot](C:/Users/km/Pictures/Day2-task.png)
+•	Predictable delivery:Improves estimation and planning.
+
+•	Fewer bugs:Tests catch edge cases upfront.
+
+•	Maintainable codebase:Simplifies future changes.
+
+•	Team alignment:Everyone works with the same mental model.
+
+•	Safe refactoring:Tests ensure nothing breaks.
+
+•	AI-friendly development: Clear specs enable AI to generate high-quality code.
 
 ### PART (C)
 
