@@ -1,4 +1,5 @@
 ### AIDD 30-Day Challenge # Task 2
+
 ### PART (A)
 
 ### Q1 Why is using AI development agents like Gemini CLI for repetitive setup tasks better for your growth as a system architect?
@@ -23,11 +24,11 @@ A developer starts coding without a specification and quickly builds a PDF summa
 Week 2: A teammate requests Word support. The code wasn’t designed for multiple formats, and edge cases like large or corrupted files weren’t tested. No spec exists, so the team has different assumptions.
 Result: Major refactoring is needed, week 1’s fast progress now costs 3× the time, and team confidence drops.
 
-### Q6# how would specification driven development prevent these problems?
+### Q6 how would specification driven development prevent these problems?
 
 A specification is a clear, written document that defines what a feature will do, how it will behave, which edge cases it will handle, and the exact success criteria. Its purpose is to ensure that developers, the team, and AI all work from the same understanding without guesswork. In the AI era, specs act as the new syntax, guiding both human and AI developers.
 
- 2. SDD 7-Step 
+ ### SDD 7-Step 
 1.	Specify:Write clear requirements, expected behavior, and edge cases for the feature.
 2.	Plan:Break the specification into small, achievable parts.
 3.	Tasks:Convert each part into testable tasks with acceptance criteria.
@@ -36,7 +37,7 @@ A specification is a clear, written document that defines what a feature will do
 6.	Refactor:Clean, optimize, and make the code maintainable.
 7.	Explain & Record:Document decisions and share with the team via ADR/PR.
 8.	
-✅ 3. SDD Benefits
+## SDD Benefits
 •	Clear requirements:Reduces misunderstandings and rework.
 •	Predictable delivery:Improves estimation and planning.
 •	Fewer bugs:Tests catch edge cases upfront.
@@ -45,22 +46,27 @@ A specification is a clear, written document that defines what a feature will do
 •	Safe refactoring:Tests ensure nothing breaks.
 •	AI-friendly development: Clear specs enable AI to generate high-quality code.
 
+### PART (B)
+![Day2-task screenshot](C:/Users/km/Pictures/Day2-task.png)
+
 ### PART (C)
+
 ### MCQs 
 ### 1 What is the main purpose of Spec-Driven Development?
-*Answer B is right* Clear requirements before coding begins
+*Answer B is right*:Clear requirements before coding begins
 
 ### 2 What is the biggest mindset shift in AI-Driven Development? 
-*Answer B is right* Thinking in systems and clear instructions
+*Answer B is right*: Thinking in systems and clear instructions
 
 ### 3 Biggest failure of Vibe Coding? 
-*Answer B is right* Architecture becomes hard to extend
+*Answer B is right*: Architecture becomes hard to extend
 
 ### 4 Main advantage of using AI CLI agents (like Gemini CLI)?
-*Answer B is right* Handle repetitive tasks so dev focuses on design & problem-solving
+*Answer B is right*: Handle repetitive tasks so dev focuses on design & problem-solving
 
 ### 5 What defines an M-Shaped Developer? 
-*Answer C is right* Deep skills in multiple related domains
+*Answer C is right*: Deep skills in multiple related domains
+
 
 
 
