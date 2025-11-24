@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+.vscode/
+.gemini/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local JSON storage
+user_profile.json
+
+# Uploads (optional, if you want users to upload their own PDFs)
+uploads/
