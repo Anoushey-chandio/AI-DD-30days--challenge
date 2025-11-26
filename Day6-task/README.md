@@ -12,7 +12,7 @@ This integration allows me to interact with GitHub using natural language — in
 
   ### setx GITHUB_MCP_PAT
 
-  - Configured the MCP server in `settings.json`:
+- Configured the MCP server in `settings.json`:
 ```json
 {
   "mcpServers": {
@@ -25,6 +25,10 @@ This integration allows me to interact with GitHub using natural language — in
   }
 }
 
+
 ### Status
 
 GitHub MCP is now fully connected and working inside the Gemini CLI Agent.
+
+
+
