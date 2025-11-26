@@ -26,9 +26,5 @@ This integration allows me to interact with GitHub using natural language — in
 }
 
 
-### Status
-
-GitHub MCP is now fully connected and working inside the Gemini CLI Agent.
-
 
 
