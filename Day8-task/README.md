@@ -37,5 +37,11 @@ cd calculator
 
 ##  How to Run
 
+Run the calculator using:
+
 python -m src.calculator.main
+
+
+This will start the CLI calculator which can perform basic operations: +, -, *, /
+
 
