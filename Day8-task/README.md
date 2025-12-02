@@ -19,16 +19,20 @@ For this task, we built a **Simple CLI Calculator** using **SpecKitPlus**, follo
 ##  How It Was Built
 The calculator was created by following these steps:
 
-
-# Initialize SpecKitPlus project
+### Initialize SpecKitPlus project
 specify init calculator
+
 cd calculator
 
-# Execute the 5 core commands in the prompt to define & implement the calculator
+### Execute the 5 core commands in the prompt to define & implement the calculator
 /sp.constitution "simple calculator with basic operations"
+
 /sp.specify "calculator: input expr (string) output result number"
+
 /sp.plan "take expression validate evaluate return number"
+
 /sp.tasks "1 receive input 2 validate expression 3 evaluate safely 4 return result"
+
 /sp.implement "implement calculator in five core commands"
 
 ##  How to Run
